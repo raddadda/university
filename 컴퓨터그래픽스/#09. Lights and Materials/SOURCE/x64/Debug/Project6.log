@@ -1,0 +1,73 @@
+﻿  glSetup.cpp
+  Lights and Materials_Exercise.cpp
+  코드를 생성하고 있습니다...
+glSetup.obj : error LNK2019: __imp_glBegin"void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glBegin
+glSetup.obj : error LNK2019: __imp_glClear"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glClear
+glSetup.obj : error LNK2019: __imp_glClearColor"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glClearColor
+glSetup.obj : error LNK2019: __imp_glColor3f"void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glColor3f
+glSetup.obj : error LNK2019: __imp_glEnd"void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glEnd
+glSetup.obj : error LNK2019: __imp_glFlush"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: __imp_glGetString"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: __imp_glLineWidth"void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: __imp_glLoadIdentity"void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glLoadIdentity
+glSetup.obj : error LNK2019: __imp_glMatrixMode"void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glMatrixMode
+glSetup.obj : error LNK2019: __imp_glOrtho"void __cdecl setupProjectionMatrix(void)" (?setupProjectionMatrix@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: __imp_glVertex3f"void __cdecl drawAxes(float,float)" (?drawAxes@@YAXMM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp_glVertex3f
+glSetup.obj : error LNK2019: __imp_glViewport"void __cdecl reshape(struct GLFWwindow *,int,int)" (?reshape@@YAXPEAUGLFWwindow@@HH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: gluPerspective"void __cdecl setupProjectionMatrix(void)" (?setupProjectionMatrix@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwInit"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwTerminate"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 glfwTerminate
+glSetup.obj : error LNK2019: glfwSetErrorCallback"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwGetPrimaryMonitor"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwGetMonitorPhysicalSize"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwGetVideoMode"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwWindowHint"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwCreateWindow"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwGetWindowSize"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwGetFramebufferSize"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwSetFramebufferSizeCallback"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwMakeContextCurrent"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+glSetup.obj : error LNK2019: glfwSwapBuffers"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2001: 확인할 수 없는 외부 기호 glfwSwapBuffers
+glSetup.obj : error LNK2019: glfwSwapInterval"struct GLFWwindow * __cdecl initializeOpenGL(int,char * * const,float * const)" (?initializeOpenGL@@YAPEAUGLFWwindow@@HQEAPEADQEAM@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glColorMaterial"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glDisable"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glEnable"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glLightf"void __cdecl setupLight(struct glm::vec<4,float,0> const &,int)" (?setupLight@@YAXAEBU?$vec@$03M$0A@@glm@@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glLightfv"void __cdecl setupLight(struct glm::vec<4,float,0> const &,int)" (?setupLight@@YAXAEBU?$vec@$03M$0A@@glm@@H@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glMaterialf"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glMaterialfv"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glNormal3f"void __cdecl drawSquare(void)" (?drawSquare@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glNormal3fv"void __cdecl drawFlatMesh(void)" (?drawFlatMesh@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glPopMatrix"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glPushMatrix"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glRotatef"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glScalef"void __cdecl render(struct GLFWwindow *)" (?render@@YAXPEAUGLFWwindow@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glShadeModel"void __cdecl render(struct GLFWwindow *)" (?render@@YAXPEAUGLFWwindow@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glTranslatef"void __cdecl drawArrow(struct glm::vec<3,float,0> const &,bool)" (?drawArrow@@YAXAEBU?$vec@$02M$0A@@glm@@_N@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: __imp_glVertex3fv"void __cdecl drawFlatMesh(void)" (?drawFlatMesh@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluLookAt"void __cdecl render(struct GLFWwindow *)" (?render@@YAXPEAUGLFWwindow@@@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluNewQuadric"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluDeleteQuadric"void __cdecl quit(void)" (?quit@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluQuadricNormals"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluQuadricTexture"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluQuadricOrientation"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluQuadricDrawStyle"void __cdecl init(void)" (?init@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluCylinder"void __cdecl drawCone(float,float,int,int)" (?drawCone@@YAXMMHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: gluSphere"void __cdecl drawSphere(float,int,int)" (?drawSphere@@YAXMHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwDestroyWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwWindowShouldClosemain 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwSetWindowShouldClose"void __cdecl keyboard(struct GLFWwindow *,int,int,int,int)" (?keyboard@@YAXPEAUGLFWwindow@@HHHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwPollEventsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwSetKeyCallbackmain 함수에서 참조되는 확인할 수 없는 외부 기호
+Lights and Materials_Exercise.obj : error LNK2019: glfwGetTimemain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\John\Desktop\컴퓨터그래픽스\#09. Lights and Materials\SOURCE\x64\Debug\Project6.exe : fatal error LNK1120: 59개의 확인할 수 없는 외부 참조입니다.
